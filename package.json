@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/oumao/oumao.github.io#readme",
   "devDependencies": {
-    "eslint": "^6.6.0"
+    "eslint": "^10.4.1"
   }
 }
